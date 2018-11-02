@@ -1,0 +1,4 @@
+git add influxdb.conf
+curtime='date'
+git commit -m "Automatic Backup @ $curtime"
+git push origin master
